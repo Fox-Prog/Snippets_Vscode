@@ -1,0 +1,16 @@
+{
+	"Print to console": {
+		"scope": "vue,javascript,typescript",
+		"prefix": "tc",
+		"body": [
+			"try{"
+			"	$0"
+			""
+			"} catch(error){"
+			"	console.log(error)"
+			"}"
+
+		],
+		"description": "Init try catch in javascript"
+	}
+}

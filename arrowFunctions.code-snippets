@@ -1,0 +1,10 @@
+{
+	"Print to console": {
+		"scope": "vue,javascript,typescript",
+		"prefix": "ff",
+		"body": [
+			"(($1) => {\n		$2 \n })"
+		],
+		"description": "Init arrow function in javascript"
+	}
+}
