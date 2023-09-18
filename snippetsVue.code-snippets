@@ -1,0 +1,31 @@
+{
+	// Init Vue component
+	"Print to console": {
+		"scope": "vue",
+		"prefix": "cp-init",
+		"body": [
+
+			"<template>",
+			"",
+			"	$1",
+			"",
+			"</template>",
+			"",
+			"",
+			"<script setup>"
+			"",
+			"	$2",
+			"",
+			"</script>",
+			"",
+			"",
+			"<style>"
+			"",
+			"	$0" 
+			"",
+			"</style>"
+    
+		],
+		"description": "Log output to console"
+	}
+}
